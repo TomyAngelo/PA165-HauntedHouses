@@ -1,3 +1,4 @@
+
 package fi.muni.pa165.hauntedhouses.config;
 
 import org.dozer.DozerBeanMapper;
